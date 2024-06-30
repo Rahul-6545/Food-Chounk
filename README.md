@@ -9,7 +9,7 @@ FoodChounk is a technology-driven company committed to promoting consumer well-b
 ## Branding
 Headline: A healthy meal delivered daily to your door
 
-Brand color: #e67e22
+Brand color: #F3C3C4
 
 ## FoodChounk Website Content
 Summary
